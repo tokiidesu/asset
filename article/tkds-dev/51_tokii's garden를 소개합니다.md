@@ -5,27 +5,21 @@ tokii's garden을 만나보세요.</p>
 
 <p><br></p>
 
-tokii's garden은 콘텐츠에 집중된 티스토리 스킨입니다. 간단해보이지만 다양한 홈 커버 아이템, 글 목록 유형, 스킨 옵션을 통해 나만의 블로그를 만들 수 있습니다. 일상, 사진, 리뷰, 포트폴리오, 기업 블로그 등 어떤 블로그와도 잘 어울립니다.
-
-홈 커버 기능을 통해 쉽게 메인 페이지를 만들 수 있으며, 다양한 스킨 옵션을 통해 나만의 블로그를 만들 수 있습니다.
-
-당신의 블로그를 글과 사진, 그리고 포트폴리오 등 콘텐츠가 집중되는 나만의 공간으로 바꿔보세요.
-
-<div class="product-box">
+<blockquote class="product-box">
 <p><strong>새로워진 tokii's garden을 소개합니다.</strong><br>
 홈 커버, 따뜻한 테마, 스킨 옵션, 블로그 메뉴바, 블로그 메뉴, 다양한 글 목록 형태 등 많은 부분이 달라졌습니다.</p>
 <p><a href="/entry/tksgarden-features">바로가기</a></p>
-</div>
+</blockquote>
 
 <p><br></p>
 
-## 스킨 정보
+### 스킨 정보
 
 - 제작자: 9월의토끼
 - 이메일: septemberstokii@gmail.com
 - 홈페이지: <a href="//www.tokiidesu.com/" target="_blank">https://www.tokiidesu.com/</a>
 
-## 스킨 특징
+### 스킨 특징
 
 -   최신 티스토리 업데이트 대응
 -   홈 커버 기능 지원으로 누구나 쉽게 만드는 메인페이지.
@@ -38,11 +32,11 @@ tokii's garden은 콘텐츠에 집중된 티스토리 스킨입니다. 간단해
 <span class="chip"><span class="text">블로그</span></span><span class="chip"><span class="text">매거진</span></span><span class="chip"><span class="text">사이트</span></span><span class="chip"><span class="text">심플</span></span><span class="chip"><span class="text">반응형</span></span><span class="chip"><span class="text">커버 지원</span></span><span class="chip"><span class="text">스킨 옵션 지원</span></span>
 
 
-<div class="product-box">
+<blockquote class="product-box">
 <p>토끼데스 스킨에 대한 저작권은 오직 tokiidesu에 있습니다. 스킨 구매는 스킨 저작권 구매를 뜻하지 않으며, 이를 복제·재배포·판매·변조를 허용하지 않습니다. ― <a href="/entry/terms#skin-copyright">자세히 보기</a></p>
-</div>
+</blockquote>
 
-## 더보기
+### 더보기
 
 - [상세 정보](/entry/product-tksgarden-details)
 - [적용된 곳](/category/적용된%20곳/tokii's%20garden)

@@ -66,7 +66,7 @@
 
 “그래도 새로운 친구들을 만나는 건 즐거워.
                      신비한 모험을 계속할 수 있으니까!”
-─ 힐다(2018), Netflix
+― 힐다(2018), Netflix
 </pre>
 
 - - -
@@ -79,10 +79,10 @@
 ## input
 
 <label for="text_field">텍스트 상자:</label>  
-<input id="text_field" class="input" type="text" placeholder="미리 입력된 텍스트">
+<input id="text_field" class="focus-input-color input" type="text" placeholder="미리 입력된 텍스트">
 
 <label for="text_area">텍스트 영역:</label>  
-<textarea id="text_area" class="input textarea" placeholder="미리 입력된 텍스트"></textarea>
+<textarea id="text_area" class="focus-input-color textarea" placeholder="미리 입력된 텍스트"></textarea>
 
 <label for="select_element">선택 상자:</label>  
 <select id="select_element" name="select_element">
@@ -109,7 +109,7 @@
 <input type="checkbox" class="checkbox" name="checkboxes" value="check_3"> 옵션 3
 
 <label for="password">비밀번호:</label>  
-<input id="password" class="input" type="password" name="password">
+<input id="password" class="focus-input-color input" type="password" name="password">
 
 <label for="file">파일 첩부:</label>  
 <input type="file" id="file" class="file" name="file">

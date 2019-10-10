@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-weight: 700;
-  src: url('https://cdn.jsdelivr.net/gh/tokiidesu/cdn/font/NanumBarunGothic/NanumBarunGothic-Bold.woff');
+  src: url('//cdn.jsdelivr.net/gh/tokiidesu/cdn/font/NanumBarunGothic/NanumBarunGothic-Bold.woff');
 }
 
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-weight: 400;
-  src: url('https://cdn.jsdelivr.net/gh/tokiidesu/cdn/font/NanumBarunGothic/NanumBarunGothic-Regular.woff');
+  src: url('//cdn.jsdelivr.net/gh/tokiidesu/cdn/font/NanumBarunGothic/NanumBarunGothic-Regular.woff');
 }
